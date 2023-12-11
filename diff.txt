@@ -1,0 +1,7 @@
+diff --git a/projet.txt b/projet.txt
+index bd0dd74..6b6affa 100644
+--- a/projet.txt
++++ b/projet.txt
+@@ -1 +1 @@
+-DEV1\n DEV2\n DEV3\n DEV4\n
++DEV1\n DEV2\n DEV3\n DEV4\n DEV5\n DEV6\n
